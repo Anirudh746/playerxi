@@ -1,2 +1,2 @@
 # playerxi
- Player XI
+  As per requirments best players have been selected.  
